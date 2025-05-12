@@ -62,10 +62,10 @@ For issues or feedback, please open an issue or contact the maintainer.
 
 *Created with ❤️ using Microsoft Power BI*
 ## ScreenShots/Demos
-Show how dasboard looks like
+Show how dasboard looks like 
 Overview Of election -
-(https://github.com/kuMRroHiT/PowerBI-Project/blob/main/Overview%20of%20election.png)
+![Alt text](https://github.com/kuMRroHiT/PowerBI-Project/blob/main/Overview%20of%20election.png)
 Consitituency Analysis-
-(https://github.com/kuMRroHiT/PowerBI-Project/blob/main/Consitituency%20Analysis.png)
+![Alt text](https://github.com/kuMRroHiT/PowerBI-Project/blob/main/Consitituency%20Analysis.png)
 State demographic analysis-
-(https://github.com/kuMRroHiT/PowerBI-Project/blob/main/State%20demographic%20analysis.png)
+![Alt text](https://github.com/kuMRroHiT/PowerBI-Project/blob/main/State%20demographic%20analysis.png)
